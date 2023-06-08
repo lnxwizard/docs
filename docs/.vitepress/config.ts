@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "AlperAkca79",
+  base: "docs",
   description: "Documents of my projects",
   themeConfig: {
     sidebar: [
